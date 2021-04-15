@@ -1,0 +1,32 @@
+html, body{
+    font-family: Raleway, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:rgb(33, 33, 41);
+} 
+
+.banner{
+    background-image: url(https://farm8.staticflickr.com/7868/47337823532_797f2cc9a1_k.jpg);
+    height: 900px;
+    text-align: center;
+    background-position-y: 1220px;
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+}   
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px;
+    margin: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: azure;
+    background-color: black;
+    opacity: 0.8;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+text-align: center;
+margin-bottom: 20px;
+font-size: 20px;
+}
